@@ -1,5 +1,5 @@
 # Car's Price Prediction
-This represents the car's price predictor based on LightGBM. The final goal is to use it to predict my father's car price.
+This represents the car's price predictor based on <strong>LightGBM + tunning Optuna</strong>. The final goal is to use it to predict my father's car price.
 
 This repository contains of: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;1)&nbsp;Program, which performs parsing cars ("parser.py") <br>
@@ -21,3 +21,6 @@ This repository contains of: <br>
 * new
 * hp
 * body_type
+
+# Tools
+lightgbm, optuna, pandas, numpy, matplotlib, seaborn, sklearn
